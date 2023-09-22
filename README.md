@@ -2,7 +2,6 @@ Hello!
 In this Machine Learning model we are trying to develop a model that can successufully identify the traffic singn board.
 
 Links(For Reference) - 
-Youtube - https://youtu.be/qahpZkPlTRM
 Data set taken from Kaggle  website - https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 
